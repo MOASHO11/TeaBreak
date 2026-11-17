@@ -1,6 +1,5 @@
-# TeaBreak ☕ (v2.1.0) | اشرب شاي
-> **Let your AI work while you sip your tea ☕**  
-> *[خلّي مساعدك يشتغل، واشرب شايك ☕](README.ar.md)*
+# TeaBreak ☕ (v2.1.0)
+> **Let your AI work while you sip your tea ☕**
 
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](#)
 [![Language: Arabic](https://img.shields.io/badge/Language-العربية-green.svg)](README.ar.md)
@@ -15,7 +14,7 @@
 
 ---
 
-## 🌐 Language Navigation / لغة الدليل
+## 🌐 Language Navigation
 - **English (Default)** — You are here.
 - **[العربية (Arabic Edition)](README.ar.md)** — انقر هنا للانتقال إلى النسخة العربية الكاملة.
 
@@ -39,7 +38,7 @@
 
 ## Overview & Philosophy
 
-**TeaBreak | اشرب شاي ☕** is a privacy-first, zero-dependency push notification bridge engineered specifically for **Google Antigravity**.
+**TeaBreak ☕** is a privacy-first, zero-dependency push notification bridge engineered specifically for **Google Antigravity**.
 
 When working with long-running agent workflows—such as large refactorings, test suites, multi-step builds, or complex debugging—developers face two frustrating scenarios:
 1. **Screen Babysitting:** Staying pinned to the workstation just to see when the agent completes its turn or halts.
@@ -193,7 +192,6 @@ python notify_on_stop.py --uninstall-global
 
 ### TeaBreak ☕
 **Let your AI work while you sip your tea ☕**  
-*خلّي مساعدك يشتغل، واشرب شايك ☕*
 
 <br/>
 
