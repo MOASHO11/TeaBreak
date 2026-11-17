@@ -1,0 +1,17 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# TeaBreak sensitive configurations (Topic privacy)
+.agents/teabreak.config.json
+teabreak.config.json
+*.bak*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
