@@ -189,11 +189,17 @@ python notify_on_stop.py --uninstall-global
 
 ---
 
-## Author & Contact
+<div align="center">
 
-Crafted with care by:  
-**#MOASHO11𓂀**  
-- **LinkedIn:** [https://www.linkedin.com/in/moasho11/](https://www.linkedin.com/in/moasho11/)  
-- **Official GitHub:** [https://github.com/moasho11/TeaBreak](https://github.com/moasho11/TeaBreak)  
-
+### TeaBreak ☕
+**Let your AI work while you sip your tea ☕**  
 *خلّي مساعدك يشتغل، واشرب شايك ☕*
+
+<br/>
+
+**Crafted with care by #MOASHO11𓂀**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moasho11-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moasho11/)
+[![GitHub](https://img.shields.io/badge/GitHub-TeaBreak-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moasho11/TeaBreak)
+
+</div>
